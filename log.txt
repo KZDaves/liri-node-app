@@ -1,0 +1,122 @@
+movie-this, mulan
+
+* Movie Title: Mulan
+* Release Year: 1998
+* IMDB Rating: 7.6
+* Rotten Tomatoes Rating: 86%
+* Country of Production: USA
+* Movie Language(s): English, Mandarin
+* Plot Summary: To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.
+* Actors: Miguel Ferrer, Harvey Fierstein, Freda Foh Shen, June Foray
+
+
+spotify-this-song, the street where you live
+
+* Artist(s): Dean Martin
+* Song name: On The Street Where You Live - Remastered
+* Spotify link: null
+* From album: This Time I'm Swingin'
+
+
+concert-this, morrisey
+
+* Venue name: Orpheum Theatre
+* Venue location: Vancouver, Canada
+* Event date: 04/14/2019
+
+
+
+* Venue name: Orpheum Theatre
+* Venue location: Vancouver, Canada
+* Event date: 04/15/2019
+
+
+
+* Venue name: Southern Alberta Jubilee Auditorium
+* Venue location: Calgary, Canada
+* Event date: 04/17/2019
+
+
+
+* Venue name: Northern Alberta Jubilee Auditorium
+* Venue location: Edmonton, Canada
+* Event date: 04/18/2019
+
+
+
+* Venue name: TCU Place
+* Venue location: Saskatoon, Canada
+* Event date: 04/20/2019
+
+
+
+* Venue name: Centennial Concert Hall
+* Venue location: Winnipeg, Canada
+* Event date: 04/22/2019
+
+
+
+* Venue name: Sony Centre for the Performing Arts
+* Venue location: Toronto, Canada
+* Event date: 04/26/2019
+
+
+
+* Venue name: Sony Centre for the Performing Arts
+* Venue location: Toronto, Canada
+* Event date: 04/27/2019
+
+
+
+* Venue name: Mtelus
+* Venue location: Montréal, Canada
+* Event date: 04/29/2019
+
+
+
+* Venue name: Lunt-Fontanne Theatre
+* Venue location: New York, NY, United States
+* Event date: 05/02/2019
+
+
+
+* Venue name: Lunt-Fontanne Theatre
+* Venue location: New York, NY, United States
+* Event date: 05/03/2019
+
+
+
+* Venue name: Lunt-Fontanne Theatre
+* Venue location: New York, NY, United States
+* Event date: 05/04/2019
+
+
+
+* Venue name: Lunt-Fontanne Theatre
+* Venue location: New York, NY, United States
+* Event date: 05/07/2019
+
+
+
+* Venue name: Lunt-Fontanne Theatre
+* Venue location: New York, NY, United States
+* Event date: 05/08/2019
+
+
+
+* Venue name: Lunt-Fontanne Theatre
+* Venue location: New York, NY, United States
+* Event date: 05/10/2019
+
+
+
+* Venue name: Lunt-Fontanne Theatre
+* Venue location: New York, NY, United States
+* Event date: 05/11/2019
+
+
+do-what-it-says, 
+
+Sorry, no events for they might be giants
+
+

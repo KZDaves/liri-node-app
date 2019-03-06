@@ -11,6 +11,7 @@ LIRI is a node application which allows users to make queries for data about con
 A command is given to Liri in the format of: `node liri <command name> <song/band name>`
 
 All commands and their terminal output are logged in a file called log.txt. 
+Demonstration of the app available in video format at: https://drive.google.com/file/d/1gyC2MWoNLb6cTbuV04Z350f_w4BEnEKo/view
 
 ###Concert-this
 	

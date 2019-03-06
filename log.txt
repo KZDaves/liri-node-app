@@ -10,12 +10,16 @@ movie-this, mulan
 * Actors: Miguel Ferrer, Harvey Fierstein, Freda Foh Shen, June Foray
 
 
-spotify-this-song, the street where you live
+movie-this, the matrix
 
-* Artist(s): Dean Martin
-* Song name: On The Street Where You Live - Remastered
-* Spotify link: null
-* From album: This Time I'm Swingin'
+* Movie Title: The Matrix
+* Release Year: 1999
+* IMDB Rating: 8.7
+* Rotten Tomatoes Rating: 88%
+* Country of Production: USA
+* Movie Language(s): English
+* Plot Summary: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+* Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
 
 
 concert-this, morrisey
@@ -115,8 +119,53 @@ concert-this, morrisey
 * Event date: 05/11/2019
 
 
+concert-this, they might be giants
+
+Sorry, no events for they might be giants
+
+
+spotify-this-song, the street where you live
+
+* Artist(s): Dean Martin
+* Song name: On The Street Where You Live - Remastered
+* Spotify link: null
+* From album: This Time I'm Swingin'
+
+
+spotify-this-song, 
+
+* Artist(s): Ace of Base
+* Song name: The Sign
+* Spotify link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=80100b107f9346abaad3abfa27adddc4
+* From album: The Sign (US Album) [Remastered]
+
+
+movie-this, 
+
+* Movie Title: Mr. Nobody
+* Release Year: 2009
+* IMDB Rating: 7.8
+* Rotten Tomatoes Rating: 67%
+* Country of Production: Belgium, Germany, Canada, France, USA, UK
+* Movie Language(s): English, Mohawk
+* Plot Summary: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+* Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+
 do-what-it-says, 
 
 Sorry, no events for they might be giants
+
+
+do-what-it-says, 
+
+* Movie Title: Life Is Beautiful
+* Release Year: 1997
+* IMDB Rating: 8.6
+* Rotten Tomatoes Rating: 80%
+* Country of Production: Italy
+* Movie Language(s): Italian, German, English
+* Plot Summary: When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.
+* Actors: Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano
 
 
